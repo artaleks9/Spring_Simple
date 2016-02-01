@@ -1,5 +1,5 @@
 Spring_Simple
 =============
-Change 14:50 20 Jan
-
-[![alt](https://codenvy-stg.com/factory/resources/factory-white.png)](https://codenvy-stg.com/ide-resources/share/project/artaleks9/Spring_S)
+qa 10.07.15
+17.03
+[![alt](https://codenvy.com/factory/resources/factory-white.png)](https://codenvy.com/factory?id=vv92tvgv6da02ife)
